@@ -1,0 +1,23 @@
+/* h1{ */
+/* ID selector for h1 */
+#heading{ 
+    color: rgb(170, 3, 5);
+    background-color: aqua;
+}
+
+/* h3,p */
+/* class for h3 , which represents using ".heading-class" */
+.heading-class,p
+{
+    color: rgb(25, 207, 12);
+
+}
+body
+{
+    background-color: rgb(175, 88, 179);
+}
+
+button
+{
+    background-color: burlywood;
+}

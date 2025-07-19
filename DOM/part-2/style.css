@@ -1,0 +1,17 @@
+#box
+{
+ height: 300px;
+ width: 200px;
+ background-color: aqua;
+ border: 1px solid black;
+}
+
+.content
+{
+    color:red;
+}
+
+.newclass
+{
+    background-color: aqua;
+}
